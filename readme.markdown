@@ -21,9 +21,10 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 ### Credits
 
-#### Code
+#### Project
 
 *   [Source code](https://github.com/pilkch/soundboard)
+*   [Demo](https://chris.iluo.net/projects/soundboard)
 
 This is a mash up of these two projects:
 
