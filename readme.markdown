@@ -1,3 +1,7 @@
+### soundboard
+
+![Preview image](readme-image.png)
+
 ### Chris Pilkington  
 Copyright ©  
 http://chris.iluo.net/ 
